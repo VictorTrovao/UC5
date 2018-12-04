@@ -14,7 +14,7 @@ namespace MarioLikeGame
 {
     public partial class frmTelaJogo : Form
     {
-        //declarando dal
+        //declarando dal bir
         gameDal GameDal;
 
         //criar atibuto para pegar nome do jogador
